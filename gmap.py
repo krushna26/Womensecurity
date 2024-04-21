@@ -4,7 +4,6 @@ Created on Thu May 27 17:39:07 2021
 
 @author: srcdo
 """
-
 import gmplot
 
 # lat = [19.0790 , 19.0810 , 19.0850]
